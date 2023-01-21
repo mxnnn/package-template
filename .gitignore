@@ -1,0 +1,14 @@
+# npm
+package-lock.json
+
+# yarn
+yarn.lock
+
+# pnpm
+pnpm-lock.yaml
+
+# dependencies
+node_modules
+
+# build
+dist

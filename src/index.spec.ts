@@ -1,7 +1,7 @@
-import { greet } from '.';
+import { example } from '.';
 
 describe('Greeter', () => {
   it('should greet', () => {
-    expect(greet()).toBe('Hello, World!');
+    expect(example()).toBe('Hello, World!');
   });
 });

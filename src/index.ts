@@ -1,3 +1,3 @@
-export const greet = () => {
+export const example = () => {
   return 'Hello, World!';
 };
